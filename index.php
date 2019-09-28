@@ -31,3 +31,18 @@
     <?php
         require 'includes/footer.php' 
     ?>
+
+<style>
+button{
+    background-color: #1966c5;
+    border: 2px solid transparent;
+    padding: 6px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 11px;
+    font-weight: bold;
+    box-shadow: 0 7px 5px -2px lightsteelblue;
+}
+</style>
+
