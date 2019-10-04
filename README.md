@@ -8,6 +8,6 @@ This project is associated with the following course
     <hr/>    
     <span class="text-center lead">This source code is the expected outcome of your following the instructions in this course.  </span>
 </div>
-<a href="http://bit.ly/2oOkrpT"><h1 class="text-center text-info">Free Udemy Course</h1></a>
-<a href="http://bit.ly/2nEh7NT"><h1 class="text-center text-success">Free Website Course</h1></a>
 
+# [Udemy](http://bit.ly/2oOkrpT)
+# [Website](http://bit.ly/2nEh7NT)
